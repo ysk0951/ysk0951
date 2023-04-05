@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 Hi there, I'm **Kim Young Seong**,  a `Web Sevice and Mobile Service Developer` from South Korea 🚀 <br>
 
-<img align="right" alt="GIF" src="https://media1.tenor.com/images/841aeb9f113999616d097b414c539dfd/tenor.gif?itemid=5368357" />
 
 **Talking about Personal Stuffs:**
 - 👨🏻‍💻 I’m currently `a Geek Worker for Enterprise Products made by CSR , SSR`
