@@ -38,6 +38,10 @@ Hi there, I'm **Kim Young Seong**,  a `Web Sevice and Mobile Service Developer` 
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"></code>
 <code><img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-256.png"></code>
 <code><img height="40" src="https://miro.medium.com/max/1084/1*L8UwJymGdpTh-jSXhDZO6g.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/64457004/230895151-df651e7f-fce8-467e-90f0-8c5ae933ab9a.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/64457004/230895240-e7686833-37dd-429a-b68b-9254e0f49245.png"></code>
+
+
 
 
 
