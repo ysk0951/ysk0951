@@ -21,8 +21,6 @@ I'm **Kim Young Seong**,  a `Web Sevice and Mobile Service Developer` from South
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 </td>
 <td rowspan="4">
-
-![Kuk Yeong's github stats](https://github-readme-stats.vercel.app/api?username=ysk0951&show_icons=true)
 </td>
 </tr>
 
