@@ -6,7 +6,8 @@ I'm **Kim Young Seong**,  a `Web Sevice and Mobile Service Developer` from South
 - 💬 Text me, If you want to ask something
 
 ## My Service
-[App Service Info Page](https://www.notion.so/11611a1b26054f89bc8cd457ce2f5836)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysk0951&langs_count=10&layout=compact)]()  
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ysk0951)]()   
 
 
 ## Languages and Tools 
@@ -17,13 +18,11 @@ I'm **Kim Young Seong**,  a `Web Sevice and Mobile Service Developer` from South
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"></code>
 <code><img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-256.png"></code>
 <code><img height="40" src="https://miro.medium.com/max/1084/1*L8UwJymGdpTh-jSXhDZO6g.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/64457004/230895151-df651e7f-fce8-467e-90f0-8c5ae933ab9a.png"></code>
-
 <code><img height="40" src="https://user-images.githubusercontent.com/64457004/230895240-e7686833-37dd-429a-b68b-9254e0f49245.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/64457004/231157277-ec27a285-0544-4352-8bbb-4f14590b05ca.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/64457004/231157414-fa90db29-0d48-4828-aacb-cf3e0f2f8bfe.png"></code>
@@ -31,5 +30,4 @@ I'm **Kim Young Seong**,  a `Web Sevice and Mobile Service Developer` from South
 <code><img height="40" src="https://user-images.githubusercontent.com/64457004/231193414-af880fed-bc1c-431e-8c94-2c86247a4f53.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/64457004/231193608-61f846eb-c190-4e34-87f2-2a0752100093.png"></code>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ysk0951)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysk0951&langs_count=10&layout=compact)]()
+
